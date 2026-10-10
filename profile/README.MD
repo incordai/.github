@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
   </a>
 </div>
----
 
 ## Why Incord AI?
 
