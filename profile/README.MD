@@ -18,5 +18,20 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/mendableai/incordai/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/mendableai/firecrawl" alt="License">
+  </a>
+  <a href="https://github.com/mendableai/incordai/stargazers">
+    <img src="https://img.shields.io/github/stars/mendableai/incordai?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://pepy.tech/project/incordai-py">
+    <img src="https://static.pepy.tech/badge/incordai-py" alt="Python Downloads">
+  </a>
+  <a href="https://x.com/incordai">
+    <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
+  </a>
+</div>
+
+<div align="center">
 <img width="1145" height="1374" alt="3c2aa4c3-4280-4737-b46c-1afec9bad331" src="https://github.com/user-attachments/assets/fe8034dd-13ee-491b-b018-92e3beaef55c" />
 
