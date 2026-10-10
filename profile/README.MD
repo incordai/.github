@@ -1,5 +1,6 @@
 <div align="center">
-<h2>Incord AI </h2><img src="https://github.com/user-attachments/assets/5548318d-30b0-4d60-a3a7-97269dbb5d61" width="25px" alt="incordai" />
+<h2>Incord AI </h2>
+<img src="https://github.com/user-attachments/assets/5548318d-30b0-4d60-a3a7-97269dbb5d61" width="50px" alt="incordai" />
   <h3>Intelligence, Memory, and Automation for AI agents</h3>
   <p>The model isn't broken. Its window onto the world is.</p>
   
