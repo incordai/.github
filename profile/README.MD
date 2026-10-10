@@ -29,7 +29,7 @@ Every AI app is building the same infrastructure: duct-taping a vector database 
 
 ## What Incord AI does
 
-| Endpoint | Job |
+| Job | Work |
 | --- | --- |
 | **Zero Integration Overhead** | Stop wiring a vector DB to an LLM router, and a voice SDK to your frontend. Incord handles Memory, Knowledge, Inference, Voice, and Agents in a single unified architecture. |
 | **Context That's Actually Instant** | Embedding and ranking happen at ingestion, ahead of time, never at query time. That's why every knowledge retrieval and memory recall is sub-second, with zero latency spikes. |
