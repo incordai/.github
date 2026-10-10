@@ -24,7 +24,9 @@
   </a>
 </div>
 ---
+
 ## Why Incord AI?
+
 Every AI app is building the same infrastructure: duct-taping a vector database to an LLM router, a voice provider, and a hosting service. Incord replaces that fragmented stack with a unified intelligence layer. The world is already ingested, memory is already persistent, and the models are already connected. So you don't build infrastructure. You just build. Standard infrastructure requires you to wire everything together manually. Incord is a pre-built, unified intelligence layer purpose-engineered for agents. The difference shows up in six places competitors can't match at once.
 
 ## What Incord AI does
