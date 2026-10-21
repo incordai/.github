@@ -16,9 +16,7 @@
   <a href="https://incord.ai/docs">
     <img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation">
   </a>
-  <a href="https://x.com/incordai">
-    <img src="https://img.shields.io/badge/💬_Join_X-5865F2?style=for-the-badge" alt="X">
-  </a>
+ 
 </div>
 
 <br>
