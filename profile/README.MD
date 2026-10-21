@@ -7,7 +7,7 @@
   </picture>
 </p>
 </div>
-
+<div align="center">
 <h3>Intelligence, Memory, and Automation for AI agents</h3>
   <p>The model isn't broken. Its window onto the world is.</p>
   
@@ -22,7 +22,7 @@
 
 <br>
 
-<div align="center">
+
 
   <a href="https://x.com/incordai">
     <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
