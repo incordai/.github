@@ -1,5 +1,4 @@
 <div align="center">
-<h1>Incord AI </h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/incord-logo-dark.svg">
