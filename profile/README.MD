@@ -18,16 +18,13 @@
     <img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation">
   </a>
  
-</div>
-
-<br>
-
-
-
   <a href="https://x.com/incordai">
     <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
   </a>
 </div>
+
+<br>
+
 
 ## Why Incord AI?
 
