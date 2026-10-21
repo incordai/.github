@@ -6,7 +6,7 @@
     <img alt="INCORD" src="/assets/incord-logo-light.svg" width="840">
   </picture>
 </p>
-
+<div/>
 <h3>Intelligence, Memory, and Automation for AI agents</h3>
   <p>The model isn't broken. Its window onto the world is.</p>
   
