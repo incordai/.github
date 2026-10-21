@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/incord-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/incord-logo-light.svg">
-    <img alt="INCORD" src="./assets/incord-logo-light.svg" width="420">
+    <img alt="INCORD" src="/assets/incord-logo-light.svg" width="420">
   </picture>
 </p>
 <img src="https://github.com/user-attachments/assets/5548318d-30b0-4d60-a3a7-97269dbb5d61" width="50px" alt="incordai" />
