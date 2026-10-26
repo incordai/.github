@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
   </a>
 </div> 
-# Watchman vs. the Rogue Agents
-
-[![Watchman vs. the Rogue Agents](preview.gif)](https://blockmandev.github.io/Watchman-Comic/watchman-vs-rogue-agents.html)
-
-**[▶ Read the animated comic](https://blockmandev.github.io/Watchman-Comic/watchman-vs-rogue-agents.html)**, and hover over each panel to light it up.
 
 
 
