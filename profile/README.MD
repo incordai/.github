@@ -46,8 +46,7 @@ Every AI app is building the same infrastructure: duct-taping a vector database 
 <div align="center">
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/readme-hero.svg">
-
+  <img src="assets/readme-hero.svg" alt="Incord" width="100%">
   </picture>
 </p>
 </div>
