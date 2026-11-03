@@ -25,9 +25,11 @@
   </a>
 </div> 
 
+<div align="center">
 
+  <img src="/assets/readme-hero.svg" alt="Incord" width="100%">
 
-
+</div>
 ## Why Incord AI?
 
 Every AI app is building the same infrastructure: duct-taping a vector database to an LLM router, a voice provider, and a hosting service. Incord replaces that fragmented stack with a unified intelligence layer. The world is already ingested, memory is already persistent, and the models are already connected. So you don't build infrastructure. You just build. Standard infrastructure requires you to wire everything together manually. Incord is a pre-built, unified intelligence layer purpose-engineered for agents. The difference shows up in six places competitors can't match at once.
@@ -43,9 +45,7 @@ Every AI app is building the same infrastructure: duct-taping a vector database 
 | **Drop-in, flat-rate, no lock-in.** | MCP, OpenAI, and Tavily-compatible endpoints make migration a one-URL change. Stop paying complex token markup fees and predict your infrastructure costs perfectly. |
 | **Yours to run, private by default.** | A hosted API routes every query through someone else's servers. Incord can run entirely on your own infrastructure, so sensitive queries and proprietary objectives never leave it. |
 
-<div align="center">
 
-  <img src="/assets/readme-hero.svg" alt="Incord" width="100%">
 
 
 
