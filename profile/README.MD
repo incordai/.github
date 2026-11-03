@@ -44,5 +44,12 @@ Every AI app is building the same infrastructure: duct-taping a vector database 
 | **Yours to run, private by default.** | A hosted API routes every query through someone else's servers. Incord can run entirely on your own infrastructure, so sensitive queries and proprietary objectives never leave it. |
 
 <div align="center">
-<img width="1145" height="1374" alt="3c2aa4c3-4280-4737-b46c-1afec9bad331" src="https://github.com/user-attachments/assets/fe8034dd-13ee-491b-b018-92e3beaef55c" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/readme-hero.svg">
+
+  </picture>
+</p>
+</div>
+<div align="center">
 
