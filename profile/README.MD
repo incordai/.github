@@ -3,43 +3,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/incord-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/assets/incord-logo-light.svg">
-    <img alt="INCORD" src="/assets/incord-logo-light.svg" width="840">
-  </picture>
-</p>
-</div>
-<div align="center">
-<h3>Intelligence, Memory, and Automation for AI agents</h3>
-  <p>The model isn't broken. Its window onto the world is.</p>
-  
-  <a href="https://incord.ai/">
-    <img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get Started">
-  </a>
-  <a href="https://incord.ai/docs">
-    <img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation">
-  </a>
-</div> 
-<br>
-<div align="center">
-  <a href="https://x.com/incordai">
-    <img src="https://img.shields.io/twitter/follow/incordai?style=social" alt="Follow on X">
-  </a>
-</div> 
-
-<div align="center">
-
-  <img src="/assets/readme-hero.svg" alt="Incord" width="100%">
-
-</div>
-
-## Why Incord AI?
-
-Every AI app is building the same infrastructure: duct-taping a vector database to an LLM router, a voice provider, and a hosting service. Incord replaces that fragmented stack with a unified intelligence layer. The world is already ingested, memory is already persistent, and the models are already connected. So you don't build infrastructure. You just build. Standard infrastructure requires you to wire everything together manually. Incord is a pre-built, unified intelligence layer purpose-engineered for agents. The difference shows up in six places competitors can't match at once.
-
-<div align="center">
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/incord-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/incord-logo-light.svg">
     <img alt="Incord AI" src="/assets/incord-logo-light.svg" width="720">
   </picture>
 </p>
