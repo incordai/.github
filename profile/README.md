@@ -41,16 +41,16 @@ AI models are already extraordinary. What they lack is everything around them: m
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/activity-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/activity-light.svg">
-    <img alt="Commit activity across Incord's public repositories over the last 12 months" src="/assets/activity-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/assets/activity-light.svg">
+    <img alt="Commit activity across Incord's public repositories over the last 12 months" src="/profile/assets/activity-light.svg" width="100%">
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/repos-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/assets/repos-light.svg">
-    <img alt="Commits per repository over the last 90 days" src="/assets/repos-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/repos-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/assets/repos-light.svg">
+    <img alt="Commits per repository over the last 90 days" src="/profile/assets/repos-light.svg" width="100%">
   </picture>
 </p>
 
